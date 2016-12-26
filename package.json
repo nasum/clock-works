@@ -1,0 +1,7 @@
+{
+  "name": "clock-works",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nasum/clock-works.git",
+  "author": "nasum <tomato.wonder.life@gmail.com>"
+}
